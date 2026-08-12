@@ -1,0 +1,23 @@
+{
+  "type": "PLANAR",
+  "properties": {
+    "top": 493,
+    "left": 157,
+    "width": 1926,
+    "height": 2568,
+    "isRotated": false,
+    "originalWidth": 2350,
+    "originalHeight": 3646
+  },
+  "imagePath": "image-targets/tarjeta personal_luminance.jpg",
+  "metadata": null,
+  "name": "tarjeta personal",
+  "resources": {
+    "originalImage": "tarjeta personal_original.jpg",
+    "croppedImage": "tarjeta personal_cropped.jpg",
+    "thumbnailImage": "tarjeta personal_thumbnail.jpg",
+    "luminanceImage": "tarjeta personal_luminance.jpg"
+  },
+  "created": 1785942611256,
+  "updated": 1785942641265
+}
